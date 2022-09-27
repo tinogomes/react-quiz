@@ -1,0 +1,22 @@
+#categories {
+    text-align: center;
+    max-width: 500px;
+}
+
+#categories h2,
+#categories p {
+    margin-bottom: 1rem;
+}
+
+#categories p {
+    color: #8435de
+}
+
+#categories img {
+    margin-top: 2rem;
+    height: 400px;
+}
+
+#categories button {
+    margin: 1rem;
+}

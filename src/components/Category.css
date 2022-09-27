@@ -1,0 +1,19 @@
+.category {
+    background-color: #3c0e70;
+    border-radius: 3rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.4s ;
+    float: left;
+    margin-right: 1rem;
+}
+
+.category:hover {
+    opacity: 1;
+}
+
+#categories-container .category p {
+    margin-bottom: 0;
+}
